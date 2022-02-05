@@ -12,10 +12,59 @@ Download [Cell Designer™](http://www.celldesigner.org/), a modeling tool for b
 Homework Assignments
 --------------------
 
-| ASSIGNMENTS | SUPPORTING FILES |
-| --- | --- |
-| {{< h 3 >}}Assignment 1{{< /h >}} {{< br >}}{{< br >}} Design and implement a biological pathway interaction database (PID) system ([PDF]({{< baseurl >}}/resources/assignment1)) (Courtesy of Huey Eng Chua. Used with permission.) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Schaefer, C. A., et al. "PID: The Pathway Interaction Database." ([PDF]({{< baseurl >}}/resources/pid_schaefer)) {{< br >}}{{< br >}} Data adapted from PID ([XLS]({{< baseurl >}}/resources/pid_data)) {{< br >}}{{< br >}} PostgreSQL Mini Installation User Guide ([PDF]({{< baseurl >}}/resources/postgresql_user_)) (Courtesy of Huey Eng Chua. Used with permission.) {{< br >}}{{< br >}}  |
-| {{< h 3 >}}Assignment 2{{< /h >}} {{< br >}}{{< br >}} Parsing and querying XML documents ([PDF]({{< baseurl >}}/resources/assignment2)) (Courtesy of Boon-Siew Seah. Used with permission.) {{< br >}}{{< br >}}  | Nux tutorial ([PDF]({{< baseurl >}}/resources/nux_tutorial)) (Courtesy of Boon-Siew Seah. Used with permission.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Assignment 1
+
+Design and implement a biological pathway interaction database (PID) system ([PDF]({{< baseurl >}}/resources/assignment1)) (Courtesy of Huey Eng Chua. Used with permission.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schaefer, C. A., et al. "PID: The Pathway Interaction Database." ([PDF]({{< baseurl >}}/resources/pid_schaefer))
+
+Data adapted from PID ([XLS]({{< baseurl >}}/resources/pid_data))
+
+PostgreSQL Mini Installation User Guide ([PDF]({{< baseurl >}}/resources/postgresql_user_)) (Courtesy of Huey Eng Chua. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+### Assignment 2
+
+Parsing and querying XML documents ([PDF]({{< baseurl >}}/resources/assignment2)) (Courtesy of Boon-Siew Seah. Used with permission.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Nux tutorial ([PDF]({{< baseurl >}}/resources/nux_tutorial)) (Courtesy of Boon-Siew Seah. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
