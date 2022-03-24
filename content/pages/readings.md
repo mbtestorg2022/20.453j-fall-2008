@@ -13,11 +13,11 @@ Schweiger, R., et al. "Plug-and-Play XML: A Health Care Perspective." _Journal o
 
 Stanislaus, R., et al. "[An XML Standard for the Dissemination of Annotated 2D Gel Electrophoresis Data Complemented with Mass Spectrometry Results](http://www.biomedcentral.com/1471-2105/5/9)." _BMC Bioinformatics_ 5, no. 9 (2004). ([PDF]({{< baseurl >}}/resources/stanislaus_bmc))
 
-Florescu, D., and D. Kossman. "Storing and Querying XML Data using an RDBMS." _Bulletin of the IEEE Computer Society Technical Committee on Data Engineering_ 22 (1999): 27-34. (See pp. 27-34 in (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://ftp.research.microsoft.com/pub/debull/99SEP-CD.pdf)))
+Florescu, D., and D. Kossman. "Storing and Querying XML Data using an RDBMS." _Bulletin of the IEEE Computer Society Technical Committee on Data Engineering_ 22 (1999): 27-34. (See pp. 27-34 in ([PDF](ftp://ftp.research.microsoft.com/pub/debull/99SEP-CD.pdf)))
 
 Shanmugasundaram, J., et al. "Relational Databases for Querying XML Documents: Limitations and Opportunities." Proceedings of the 25th VLDB Conference, Edinburgh, Scotland, 1999. ([PDF]({{< baseurl >}}/resources/inlining_vldb))
 
-Zhang, C., et al. "On Supporting Containment Queries in Relational Database Management Systems." Proceedings of ACM SIGMOD 2001, Santa Barbara, CA. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.vldb.org/conf/2007/papers/demo/p1402-lu.pdf))
+Zhang, C., et al. "On Supporting Containment Queries in Relational Database Management Systems." Proceedings of ACM SIGMOD 2001, Santa Barbara, CA. ([PDF](http://www.vldb.org/conf/2007/papers/demo/p1402-lu.pdf))
 
 Tatarinov, I., et al. "[Storing and Querying Ordered XML Using a Relational Database System](https://dx.doi.org/10.1145/564691.564715)." Proceedings of ACM SIGMOD 2002, Madison, WI.
 
@@ -41,9 +41,9 @@ Davidson, S. B., and L. Wong. "The Kleisli Approach to Data Transformation and I
 
 Bhowmick, S. S., P. Cruz, and A. Laud. "[XomatiQ: Living With Genomes, Proteomes, Relations and a Little Bit of XML](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.3594&rep=rep1&type=pdf)." Proceedings of 19th International Conference on Data Engineering (ICDE'03), 2003.
 
-Broekstra, J., A. Kampman, and F. van Harmelen. "Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema." Proceedings of the International Semantic Web Conference (ISWC) 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.few.vu.nl/~frankh/postscript/MIT01.pdf))
+Broekstra, J., A. Kampman, and F. van Harmelen. "Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema." Proceedings of the International Semantic Web Conference (ISWC) 2002. ([PDF](http://www.few.vu.nl/~frankh/postscript/MIT01.pdf))
 
-Wilkinson, K., et al. "Efficient RDF Storage and Retrieval in Jena2." Presented at 1st International Workshop on Semantic Web and Databases, September 7, 2003, Berlin, Germany. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.hpl.hp.com/techreports/2003/HPL-2003-266.pdf))
+Wilkinson, K., et al. "Efficient RDF Storage and Retrieval in Jena2." Presented at 1st International Workshop on Semantic Web and Databases, September 7, 2003, Berlin, Germany. ([PDF](http://www.hpl.hp.com/techreports/2003/HPL-2003-266.pdf))
 
 Zhou, J., et al. "Minerva: A Scalable OWL Ontology Storage and Inference System." Proceedings of First Asian Semantic Web Conference, 2006, Beijing China.
 
@@ -52,7 +52,7 @@ McGuinness, D. L., and F. van Harmelen, eds. "OWL Web Ontology Language Overview
 Part 5: Biological Pathways
 ---------------------------
 
-Lu, J., et al. "SOR: A Practical System for Ontology Storage, Reasoning and Search." Proceedings of VLDB '07, September 23-28, 2007, Vienna, Austria. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.vldb.org/conf/2007/papers/demo/p1402-lu.pdf))
+Lu, J., et al. "SOR: A Practical System for Ontology Storage, Reasoning and Search." Proceedings of VLDB '07, September 23-28, 2007, Vienna, Austria. ([PDF](http://www.vldb.org/conf/2007/papers/demo/p1402-lu.pdf))
 
 Smith, A. K., et al. "[LinkHub: A Semantic Web System that Facilitates Cross-database Queries and Information Retrieval in Proteomics](http://www.biomedcentral.com/1471-2105/8/S3/S5)." _BMC Bioinformatics_ 8, Suppl. 3 (2007): S5. ([PDF]({{< baseurl >}}/resources/smith_bmc))
 
