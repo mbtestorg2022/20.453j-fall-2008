@@ -6,6 +6,7 @@ description: 'Article provided as a course reading on biological pathways: Smith
   S5.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-453j-biomedical-information-technology-fall-2008/8b05d0c4db91ef1f0c5e123bbcf701ea_smith_bmc.pdf
 file_type: application/pdf
+parent_uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 resourcetype: Document
 title: 'LinkHub: a Semantic Web system that facilitates cross-database queries and
   information retrieval in proteomics'

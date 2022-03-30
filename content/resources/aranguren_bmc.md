@@ -5,6 +5,7 @@ description: 'Article provided as a course reading on biological pathways: Arang
   Recasting the Gene Ontology in OWL." BMC Bioinformatics 8 (2007): 57.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-453j-biomedical-information-technology-fall-2008/d53673ffd07213792965b541368d7201_aranguren_bmc.pdf
 file_type: application/pdf
+parent_uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 resourcetype: Document
 title: 'Understanding and Using the Meaning of Statements in a Bio-ontology: Recasting
   the Gene Ontology in OWL'

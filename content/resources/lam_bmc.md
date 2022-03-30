@@ -5,6 +5,7 @@ description: 'Article provided as a course reading on biological pathways: Lam, 
   8, Suppl 3 (2007): S4.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-453j-biomedical-information-technology-fall-2008/cf29d1944802c2f95a66ee61e8b582b4_lam_bmc.pdf
 file_type: application/pdf
+parent_uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 resourcetype: Document
 title: 'AlzPharm: Integration of Neurodegeneration Data using RDF'
 uid: cf29d194-4802-c2f9-5a66-ee61e8b582b4
